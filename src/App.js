@@ -7,7 +7,7 @@ import Card from './card';
 
 function App() {
     const data=[
-      {
+      {  
         subscription:'free',
         price:0,
         currency:"$",
